@@ -19,10 +19,10 @@ Make sure you have:
   1. Profit margins by category and sub-category
   2. Sales and profit by state
   3. Average Sales and Profit by Discount
-    4. Top 10 Loss-Making Products
-    5. Average delivery time by ship mode
-    6. Profit by Shipping Mode
-    7.Shipping Performance by Region
+  4. Top 10 Loss-Making Products
+  5. Average delivery time by ship mode
+  6. Profit by Shipping Mode
+  7.Shipping Performance by Region
   8. Average Order Value by Segment
   9. Top 10 Profitable Customers
   10. Repeat Customer Behavior
@@ -30,4 +30,4 @@ Make sure you have:
   12. Peak Sales Months
   13. Sub-Category Sales per Unit
   14. Sample Product Combinations
-         5. 
+  
